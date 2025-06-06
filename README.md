@@ -78,10 +78,23 @@ Fast PR 업적은 빠른 PR 제출을 꾸준히 도전하면 1~2일 내 자동 �
 
 </details>
 
+<details> 
+<summary>2025-06-06 - Git Submodule 활용 정리</summary>
+학습 레포를 한 곳으로 모으기 위해 Git Submodule 적용
+
+education_busan 레포에 html, css, python 등 16개 레포 정리
+
+서브모듈 활용으로 구조 깔끔하게 정리, 포트폴리오 가독성 향상
+
+관련 기록 보기: 2025-06-06-submodule-setup.md
+
+</details>
+
 ---
 
 ## 기록 아카이브
 
-- [2025-06-06 기록 상세 보기](./logs/2025-06-06.md)
+- [2025-06-06 React 기록 상세 보기](./logs/2025-06-06.md)
+- [2025-06-06 Git submodule 기록 상세 보기](./logs/2025-06-06-submodule-setup.md)
 
 ---
