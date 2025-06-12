@@ -90,6 +90,20 @@ education_busan 레포에 html, css, python 등 16개 레포 정리
 
 </details>
 
+
+<details> <summary>2025-06-12 - Git 브랜치 푸시 문제 해결</summary>
+상황: 메인에서 커밋 후 개인 브랜치로 푸시하려다 안 됨
+
+원인: 브랜치 이동 전 커밋, 체크아웃 미흡
+
+해결: git checkout, git merge, git push 순으로 처리
+
+교훈: 커밋 브랜치와 푸시 브랜치를 일치시킬 것
+
+참고: git-branch-push-troubleshooting.md
+
+</details>
+
 ---
 
 ## 기록 아카이브
