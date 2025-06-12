@@ -110,6 +110,6 @@ education_busan 레포에 html, css, python 등 16개 레포 정리
 
 - [2025-06-06 React 기록 상세 보기](./logs/2025-06-06.md)
 - [2025-06-06 Git submodule 기록 상세 보기](./logs/2025-06-06-submodule-setup.md)
-- [2025-06-12 Git 브랜치 푸시 문제 해결](./logs/2025-06-12 troubleshooting.md)
+- [2025-06-12 Git 브랜치 푸시 문제 해결](./logs/2025-06-12-troubleshooting.md)
 
 ---
