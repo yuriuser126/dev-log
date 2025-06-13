@@ -113,3 +113,4 @@ education_busan 레포에 html, css, python 등 16개 레포 정리
 - [2025-06-12 Git 브랜치 푸시 문제 해결](./logs/2025-06-12-troubleshooting.md)
 
 ---
+"Pair Extraordinaire ����!" 
