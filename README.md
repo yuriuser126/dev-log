@@ -18,6 +18,9 @@
 - ⚡ **Fast Pull Request** (진행 중)  
   빠른 PR 제출로 받는 업적, 도전 중
 
+  - ⚡ **Quickdraw** (2025-06-13 달성)  
+  이슈나 풀 리퀘스트를 5분 이내에 열고 닫음으로써 획득한 업적  
+
 - 🏅 **Pair Extraordinaire** (2025-06-13 도전 성공!)  
   서브계정과 공동 작업 커밋 및 PR 생성으로 획득  
   자세한 도전 과정은 [2025-06-13 GitHub Achievements 기록](./logs/2025-06-13_GitHubAchievements.md) 참고
@@ -106,6 +109,26 @@ education_busan 레포에 html, css, python 등 16개 레포 정리
 참고: git-branch-push-troubleshooting.md
 
 </details>
+
+<details>
+<summary>2025-06-13 - Quickdraw & Pair Extraordinaire 업적 달성!</summary>
+
+### Quickdraw 업적  
+- 이슈나 PR을 5분 이내에 열고 닫아 획득한 업적  
+- 빠른 의사결정과 처리 속도를 인정받음  
+- 도전 과정: dev-log 저장소에서 이슈 5개 생성 후 5분 이내 모두 닫음  
+
+### Pair Extraordinaire 업적  
+- 서브계정과 함께 공동 작업으로 획득한 업적  
+- 서브계정과 공동 커밋, PR 생성 및 머지를 성공적으로 수행  
+- 협업 능력과 빠른 개발 진행을 증명  
+
+### 총평  
+두 업적 모두 빠른 작업 처리와 협업 능력을 동시에 보여주는 값진 성과이며,  
+깃허브 활동에 큰 동기부여가 됨.
+
+</details>
+
 
 ---
 
