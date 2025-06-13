@@ -18,6 +18,10 @@
 - ⚡ **Fast Pull Request** (진행 중)  
   빠른 PR 제출로 받는 업적, 도전 중
 
+- 🏅 **Pair Extraordinaire** (2025-06-13 도전 성공!)  
+  서브계정과 공동 작업 커밋 및 PR 생성으로 획득  
+  자세한 도전 과정은 [2025-06-13 GitHub Achievements 기록](./logs/2025-06-13_GitHubAchievements.md) 참고
+
 - ✅ **First Commit** (완료)  
   첫 커밋 푸시 기록
 
@@ -56,7 +60,7 @@
 
 ## 요약
 
-현재 YOLO, Pull Shark 업적 보유 중이며 Reviewer 배지는 곧 획득 가능.  
+현재 YOLO, Pull Shark, Pair Extraordinaire 업적 보유 중이며 Reviewer 배지는 곧 획득 가능.  
 PR 머지 성공하면 가장 가치 있는 Pull Request, Code Contributor 업적 획득 가능.  
 이슈 제기, 문서 기여, 리뷰, 커뮤니케이션 활동을 함께 늘려가면  
 협업 역량이 강화되어 현업에서도 좋은 평가를 받을 수 있음.  
@@ -90,7 +94,6 @@ education_busan 레포에 html, css, python 등 16개 레포 정리
 
 </details>
 
-
 <details> <summary>2025-06-12 - Git 브랜치 푸시 문제 해결</summary>
 상황: 메인에서 커밋 후 개인 브랜치로 푸시하려다 안 됨
 
@@ -111,6 +114,6 @@ education_busan 레포에 html, css, python 등 16개 레포 정리
 - [2025-06-06 React 기록 상세 보기](./logs/2025-06-06.md)
 - [2025-06-06 Git submodule 기록 상세 보기](./logs/2025-06-06-submodule-setup.md)
 - [2025-06-12 Git 브랜치 푸시 문제 해결](./logs/2025-06-12-troubleshooting.md)
+- [2025-06-13 GitHub Achievements 기록](./logs/2025-06-13_GitHubAchievements.md)
 
 ---
-"Pair Extraordinaire ����!" 
