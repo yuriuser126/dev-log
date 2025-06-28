@@ -140,3 +140,6 @@ education_busan 레포에 html, css, python 등 16개 레포 정리
 - [2025-06-13 GitHub Achievements 기록](./logs/2025-06-13_GitHubAchievements.md)
 
 ---
+
+## 오류기록
+곧 추가할 예정입니다
